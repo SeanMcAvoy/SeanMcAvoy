@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sean
 
 ### 📫 How to Reach Me
-- LinkedIn: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sean-mcavoy-8911721b8/))
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/sean-mcavoy-8911721b8/))
 - Email: smcavoy.mcavoy@gmail.com
 
 <!--
