@@ -44,8 +44,6 @@
 
 
 ### 📫 How to Reach Me
-- LinkedIn: [Sean McAvoy](https://www.linkedin.com/in/sean-mcavoy-8911721b8/)
-- Email: 
 [![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/sean-mcavoy-8911721b8/)
 [![Email](https://img.shields.io/badge/-Email_Me-EA4335?logo=gmail)](mailto:smcavoy.mcavoy@gmail.com)
 
