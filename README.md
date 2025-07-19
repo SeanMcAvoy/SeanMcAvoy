@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Sean
 
-### 🔭 About Me
+### About Me 🔭 
 - 💻 **Full-Stack Engineer** @Kainos  
 - 🌱 **Currently learning:** Astro + Next.js  
 - 🚀 **Building:** Modern saas applications 
 
-### 🛠️ My Personal Poject Tech Stack  
+### My Personal Poject Tech Stack 🛠️   
 **Frontend**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)
@@ -43,7 +43,7 @@
 
 
 
-### 📫 How to Reach Me
+###  How to Reach Me 📫
 [![LinkedIn Professional Network](https://img.shields.io/badge/-Sean's_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-mclelland)
 [![Email Me for Opportunities](https://img.shields.io/badge/-Sean's_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean@example.com)
 
