@@ -44,8 +44,8 @@
 
 
 ### 📫 How to Reach Me
-[![LinkedIn](https://img.shields.io/badge/-Let's_Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/sean-mcavoy-8911721b8/)
-[![Email](https://img.shields.io/badge/-Email_Me-EA4335?logo=gmail)](mailto:smcavoy.mcavoy@gmail.com)
+[![LinkedIn Professional Network](https://img.shields.io/badge/-Sean's_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sean-mclelland)
+[![Email Me for Opportunities](https://img.shields.io/badge/-Sean's_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sean@example.com)
 
 <!--
 **SeanMcAvoy/SeanMcAvoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
