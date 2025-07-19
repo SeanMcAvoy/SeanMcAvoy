@@ -1,8 +1,28 @@
 ## Hi there 👋 I'm Sean
 
 ### 🔭 About Me
-- 💻 Working @Kainos SWE
-- 🌱 Currently learning Astro
+- 💻 **Full-Stack Engineer** @Kainos  
+- 🌱 **Currently learning:** Astro + Next.js  
+- 🚀 **Building:** Modern saas applications  
+- ⚡ **Fun fact:** I've automated my home with Raspberry Pi  
+
+### 🛠️ My Personal Poject Tech Stack  
+**Frontend**  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)
+![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro)
+
+**Backend**  
+![Next.js API](https://img.shields.io/badge/-Next.js_API-000000?logo=next.js)
+![Next Auth](https://img.shields.io/badge/-Next_Auth-000000?logo=next.js)
+
+**Database & Services**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?logo=stripe)
+![Resend](https://img.shields.io/badge/-Resend-000000?logo=resend)
+
+**DevOps**  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
 
 <!--
 ### 🛠️ Technologies & Tools
@@ -13,7 +33,6 @@
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical&count_private=true)](https://github.com/SeanMcAvoy)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/SeanMcAvoy)
--->
 
 ## 🚀 Professional Links  
 | Type          | URL                                  |  
@@ -21,6 +40,9 @@
 | Portfolio     |  |  
 | Business      |            |  
 | CV/Resume     |           |  
+-->
+
+
 
 ### 📫 How to Reach Me
 - LinkedIn: [Sean McAvoy](https://www.linkedin.com/in/sean-mcavoy-8911721b8/)
