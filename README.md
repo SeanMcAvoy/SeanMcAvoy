@@ -3,8 +3,7 @@
 ### 🔭 About Me
 - 💻 **Full-Stack Engineer** @Kainos  
 - 🌱 **Currently learning:** Astro + Next.js  
-- 🚀 **Building:** Modern saas applications  
-- ⚡ **Fun fact:** I've automated my home with Raspberry Pi  
+- 🚀 **Building:** Modern saas applications 
 
 ### 🛠️ My Personal Poject Tech Stack  
 **Frontend**  
