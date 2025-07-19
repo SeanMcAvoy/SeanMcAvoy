@@ -9,11 +9,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi)
 ![IoT](https://img.shields.io/badge/-IoT-FF6F00?logo=arduino)
--->
-### 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical)](https://github.com/SeanMcAvoy)
 
+### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical&count_private=true)](https://github.com/SeanMcAvoy)
+-->
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/SeanMcAvoy)
 
 ### 📫 How to Reach Me
 - LinkedIn: [Sean McAvoy](https://www.linkedin.com/in/sean-mcavoy-8911721b8/)
