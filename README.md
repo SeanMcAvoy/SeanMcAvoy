@@ -13,6 +13,8 @@
 ### 📊 GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical)](https://github.com/SeanMcAvoy)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical&count_private=true)](https://github.com/SeanMcAvoy)
+
 ### 📫 How to Reach Me
 - LinkedIn: [Sean McAvoy](https://www.linkedin.com/in/sean-mcavoy-8911721b8/)
 - Email: smcavoy.mcavoy@gmail.com
