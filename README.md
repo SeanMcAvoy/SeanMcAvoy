@@ -12,8 +12,15 @@
 
 ### 📊 GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical&count_private=true)](https://github.com/SeanMcAvoy)
--->
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeanMcAvoy&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/SeanMcAvoy)
+-->
+
+## 🚀 Professional Links  
+| Type          | URL                                  |  
+|---------------|--------------------------------------|  
+| Portfolio     |  |  
+| Business      |            |  
+| CV/Resume     |           |  
 
 ### 📫 How to Reach Me
 - LinkedIn: [Sean McAvoy](https://www.linkedin.com/in/sean-mcavoy-8911721b8/)
