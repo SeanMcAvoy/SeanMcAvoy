@@ -5,7 +5,7 @@
 - 🌱 **Currently learning:** Astro + Next.js  
 - 🚀 **Building:** Modern saas applications 
 
-### My Personal Poject Tech Stack 🛠️   
+### My Personal Pojects Tech Stack 🛠️   
 **Frontend**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)
