@@ -5,7 +5,7 @@
 - 🌱 **Currently learning:** Astro + Next.js  
 - 🚀 **Building:** Modern saas applications 
 
-### My Personal Pojects Tech Stack 🛠️   
+### My Personal Pojects Tech Stack  🛠️   
 **Frontend**  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css)
@@ -22,6 +22,12 @@
 
 **DevOps**  
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
+
+### My Daily Work Tech Stack (Kainos Job) 🛠️   
+**Backend**  
+**C#
+**PostgreSql
+** Azure DevOps
 
 <!--
 ### 🛠️ Technologies & Tools
