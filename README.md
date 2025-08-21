@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sean, a full-time Software engineer
+## Hi there 👋 I'm Sean,
 
 ### About Me 🔭 
 - 💻 **Full-Stack Engineer** @Kainos  
