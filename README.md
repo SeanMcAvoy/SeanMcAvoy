@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sean
+## Hi there 👋 I'm Sean, a full-time Software engineer
 
 ### About Me 🔭 
 - 💻 **Full-Stack Engineer** @Kainos  
@@ -25,9 +25,9 @@
 
 ### My Daily Work Tech Stack (Kainos Job) 🛠️   
 **Backend**  
-**C#
-**PostgreSql
-** Azure DevOps
+- C#
+- PostgreSql
+- Azure DevOps
 
 <!--
 ### 🛠️ Technologies & Tools
