@@ -25,9 +25,12 @@
 
 ### My Daily Work Tech Stack (Kainos Job) 🛠️   
 **Backend**  
-- C#
+- C#, .Net
 - PostgreSql
 - Azure DevOps
+- Jira, AWS WorkSpace
+
+***Work Github Account***
 
 <!--
 ### 🛠️ Technologies & Tools
